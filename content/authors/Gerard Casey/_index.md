@@ -10,7 +10,7 @@ last_name: Casey
 superuser: false
 
 # Role/position
-role: Principal Research Fellow
+role: Principal Research Fellow, Arup
 
 # Organizations/Affiliations
 organizations:

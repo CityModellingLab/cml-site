@@ -10,7 +10,7 @@ last_name: Suel
 superuser: false
 
 # Role/position
-role: Professor of Urban Analytics
+role: Professor of Urban Analytics, UZH
 
 # Organizations/Affiliations
 organizations:

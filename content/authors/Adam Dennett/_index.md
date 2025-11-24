@@ -10,7 +10,7 @@ last_name: Dennett
 superuser: false
 
 # Role/position
-role: Professor of Urban Analytics
+role: Professor of Urban Analytics, UCL
 
 # Organizations/Affiliations
 organizations:

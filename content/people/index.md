@@ -3,9 +3,21 @@ title: People
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: Meet the team     
+      text: From the University College London, the University of Zürich and Arup 
+    design:
+      background:
+        image: 
+          filename: 'welcome.jpg'
+          filters:
+            brightness: '0.5'
+        text_color_light: true
+        color: '#333'
   - block: people
     content:
-      title: Meet the Team
+      title: 
       user_groups:
           - Principal Investigators
           - Postdoc Researchers

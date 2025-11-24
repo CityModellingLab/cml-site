@@ -5,9 +5,8 @@ type: landing
 sections:
   - block: hero
     content:
-      title: The Collaboration       
-      text: |
-        The City Modelling Lab is a collaboration between UCL, Arup and the University of Zürich
+      title: The Collaboration
+      text: Bridging the gap between theory, practice, and policy
     design:
       background:
         image: 
@@ -20,17 +19,14 @@ sections:
   - block: markdown
     content:
       text: |
-        The purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change.
-
-        Arup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction.
-
-        The joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There's a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation.
+        We combine Arup’s mission-oriented delivery with UCL and UZH’s methodological innovation. Arup solves complex urban problems for clients making high-stakes decisions, while UCL and UZH drive the development of rigorous theory and long-term research.
+        
+        The current landscape is fragmented. Cutting-edge urban theory often lacks the tooling for practical implementation, while commercial projects are frequently siloed, preventing successful local solutions from scaling globally. Our collaboration addresses this disconnect. We facilitate the exchange of best practices, ensuring that deep academic research finds a direct pipeline to real-world application, and that commercial challenges drive relevant academic inquiry.
 
   - block: hero
     content:
       title: The Vision
-      text: |
-        Make data driven insights readily available to decision makers in the city realm who are facing existential challenges and problems relating to climate change and social inequality
+      text: Empowering decision-makers with data-driven insights to tackle climate change and social inequality
     design:
       background:
         image: 
@@ -39,21 +35,20 @@ sections:
             brightness: '0.5'
         text_color_light: true
         color: '#333'
+
   - block: markdown
     content:
       text: |
-        In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.
+        We are building a future where practitioners can assess interventions across interconnected systems, rather than in isolation. By breaking down policy silos, we aim to enable truly participatory decision-making informed by rigorous data. Our vision rests on two core missions:
 
-        Our vision consists of two missions:
-
-        1.  Creating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes.
-        2.  Leveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do.
+        1. **Sustainable & Equitable Environments:** We must move beyond traditional transport metrics like journey time savings. Instead, we evaluate success through the lens of desired outcomes—such as reduced carbon emissions, improved affordable housing access, and increased public transport usage. This approach prioritizes the creation of sustainable, shared urban economies.
+        
+        2. **Human-Centric Modelling:** We put the individual at the heart of our analysis. By leveraging cloud computing and agent-based methodologies, we simulate how urban-scale patterns emerge from bottom-up individual behaviors. This allows us to understand the complex, human impact of policy decisions before they are implemented.
 
   - block: hero
     content:
-      title: Our approach
-      text: |
-        Facilitate the deeper development of rapid commercial solutions and providing an industry/commercial outlet for new tools, methods and theories developed in an academic context.
+      title: The Approach
+      text: Bridging academic rigor with commercial velocity
     design:
       background:
         image: 
@@ -62,8 +57,9 @@ sections:
             brightness: '0.5'
         text_color_light: true
         color: '#333'
+
   - block: markdown
     content:
       text: |
-        Arup’s client delivery focus means that while rapid solutions are developed, innovations with potential beyond the scope of the original projects rarely taken further or developed for alternative contexts. This means that the wider benefits may not be realised and this represents a massive missed opportunity. Conversely the research process in CASA can be much longer in gestation with the development of theories and tools that have commercial relevance but a longer run-way to delivery and often no immediate commercial outlet. This collaboration seek to bridge that gap.
+        We resolve the conflict between the pace of consultancy and the depth of academia. In a commercial setting, rapid solutions are developed for specific client needs, but wider innovations often stall once the project concludes. Conversely, academic research offers robust theories but often lacks an immediate pathway to market. This partnership bridges that gap. We provide a platform where academic tools are refined for commercial use, and where rapid industry insights are validated through rigorous research, ensuring that innovations are not just theoretical, but scalable and impactful.
 ---
