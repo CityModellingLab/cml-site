@@ -66,18 +66,6 @@ projects: ['ntem']
 #   Associate this publication with Markdown slides.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 slides: ''
-
-  - block: markdown
-    content:
-      text: |
-        <div style="display:flex; gap:120px; justify-content:center; align-items:center; flex-wrap:wrap; padding: 20px 0;">
-          <a href="https://www.ucl.ac.uk/bartlett/casa">
-          </a>
-          <a href="https://www.arup.com/">
-          </a>
-          <a href="https://www.geo.uzh.ch/">
-          </a>
-        </div>
 ---
 
 {{% callout note %}}
