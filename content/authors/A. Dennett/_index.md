@@ -62,4 +62,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front.

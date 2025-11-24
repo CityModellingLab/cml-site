@@ -53,4 +53,4 @@ user_groups:
   - PhD Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Maria is a first-year PhD student at CASA, focusing on equity in transport electrification. She loves trying to fix everything that’s wrong with the world but so far has only managed to patch the hole in her dungarees. Great taste in music, poor taste in lunch spots.

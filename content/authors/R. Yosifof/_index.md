@@ -55,5 +55,4 @@ highlight_name: false
 user_groups:
   - PhD Researchers
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Roei joined CASA as a first year PhD student in 2025 after previously working as an architect in urban design projects and as part time researcher. He is interested in macro scale urban and regional modeling, machine learning, and basketball.

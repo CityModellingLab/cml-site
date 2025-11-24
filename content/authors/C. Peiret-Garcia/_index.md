@@ -62,4 +62,4 @@ user_groups:
   - Postdoc Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Clara joined CASA as a postdoc in January 2025. Her research focuses in identifying spatial inequalities in transport, and developing and applying new methods based using survey data. She is very partial to pretty maps and Bruce Springsteen.

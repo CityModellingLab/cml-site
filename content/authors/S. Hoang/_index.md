@@ -60,4 +60,4 @@ user_groups:
   - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shaun Hoang is an urban mobility researcher at the University of Zurich, and University College London (UCL). His recent projects focus on transport resilience, transport inequality and open geospatial data challenges in developing economies. 

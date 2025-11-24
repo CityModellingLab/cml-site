@@ -59,4 +59,4 @@ user_groups:
   - PhD Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+After undertaking a master’s in Critical Theory, Claude arrived at CASA in 2023 to provoke planners in unexpected ways. As the digital humanist of the team, Claude is frequently cautioning his colleagues on datafication and critical use of GIS. Because he is an ‘indie kid’ and more or less trapped in 2015, no one has bothered to listen to him yet, but they do let him curate the office playlist.

@@ -53,4 +53,4 @@ user_groups:
   - PhD Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Having completed his undergraduate, PGCE and MSc degrees at UCL, Tom is aiming to complete the set with a PhD at CASA. He is currently working on using Agent Based Models to develop effective bus policies. When he is not lost in MatSIM, Tom is usually found dragging reluctant teenagers through their GCSEs and A Levels.

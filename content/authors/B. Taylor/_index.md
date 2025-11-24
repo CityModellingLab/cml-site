@@ -59,4 +59,4 @@ user_groups:
   - Postdoc Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.

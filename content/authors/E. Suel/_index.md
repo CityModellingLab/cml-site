@@ -65,4 +65,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Esra's most recent research is driven by questions related to transport and energy transitions to net-zero, urban change, and their links to socio-economic and health inequalities. Her new research group at the Department of Geography will focus on computational methods to study urban systems, integrating traditional and big data sources. 

@@ -62,4 +62,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Gerry leads the Arup City Modelling Lab team, and helped found the CASA Arup City Modelling Lab at UCL.
