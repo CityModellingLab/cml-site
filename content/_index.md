@@ -26,13 +26,13 @@ sections:
       text: |
         <div style="display:flex; gap:120px; justify-content:center; align-items:center; flex-wrap:wrap;">
           <a href="https://www.ucl.ac.uk/bartlett/casa">
-            <img src="/media/ucl-logo.png" alt="UCL" style="height: 60px; max-width: 100%;">
+            <img src="ucl-logo.png" alt="UCL" style="height: 60px; max-width: 100%;">
           </a>
           <a href="https://www.arup.com/">
-            <img src="/media/arup-logo.png" alt="Arup" style="height: 60px; max-width: 100%;">
+            <img src="arup-logo.png" alt="Arup" style="height: 60px; max-width: 100%;">
           </a>
           <a href="https://www.geo.uzh.ch/">
-            <img src="/media/uzh-logo.png" alt="UZH" style="height: 60px; max-width: 100%;">
+            <img src="uzh-logo.png" alt="UZH" style="height: 60px; max-width: 100%;">
           </a>
         </div>
 
@@ -46,7 +46,7 @@ sections:
           image:
             filename: welcome.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.3
           position: center
           color: '#555'
         link:
@@ -59,7 +59,7 @@ sections:
           image:
             filename: welcome.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.3
           position: center
           color: '#333'
         link:
