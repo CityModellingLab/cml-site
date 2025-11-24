@@ -5,7 +5,7 @@ sections:
   - block: portfolio
     content:
       title: Blog
-      subtitle: What we've been thinking about...
+      subtitle: What we're thinking about...
       filters:
         folders:
           - blog
