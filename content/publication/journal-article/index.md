@@ -1,11 +1,9 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- esrasuel
+- adamdennett
+author_notes: 
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -13,8 +11,17 @@ doi: ""
 publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# Accepts a single type but formatted as a YAML list.
+    # article-journal: A peer-reviewed journal article.
+    # paper-conference: A paper presented at or published in the proceedings of a conference.
+    # book: A full-length book.
+    # chapter: A chapter or essay in an edited book.
+    # report: A technical report, white paper, or government document.
+    # thesis: A master's thesis or doctoral dissertation.
+    # webpage: A general web page without a clear author or date.
+    # post-weblog: A blog post.
+    # manuscript: An unpublished work or document.
+    # speech: A presentation or talk, such as one given at a conference but not formally published.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
@@ -34,7 +41,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,7 +50,6 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
@@ -63,7 +69,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
