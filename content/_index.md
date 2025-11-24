@@ -73,10 +73,10 @@ sections:
   
   - block: collection
     content:
-      title: Blog
+      title: Latest Posts
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -90,25 +90,24 @@ sections:
       view: card
       columns: '2'
   
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: 
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: welcome.jpg
+          filters:
+            brightness: 0.5
+          parallax: true
+          position: center
+          size: 
+          text_color_light: true
+      spacing:
+        padding: ['100px', '0', '100px', '0']
 
   - block: collection
     content:
@@ -118,9 +117,10 @@ sections:
       filters:
         folders:
           - publication
-        # publication_type: 'article'
+        publication_type: article-journal
+      
     design:
       view: citation
-      columns: '1'
+      columns: '2'
 
 ---

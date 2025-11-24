@@ -1,8 +1,8 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-
 title: 'City Modelling Lab' # Website name
 baseURL: 'https://www.citymodellinglab.uk/' # Website URL
+cascade:
+  - params:
+      share: false
 
 ############################
 ## LANGUAGE
@@ -16,8 +16,8 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-enableGitInfo: false
-summaryLength: 30
+enableGitInfo: true
+summaryLength: 20
 pagination:
   pagerSize: 10
 enableEmoji: true
@@ -47,7 +47,7 @@ markup:
   defaultMarkdownHandler: goldmark
   _merge: deep
 related:
-  threshold: 80
+  threshold: 50
   includeNewer: true
   toLower: true
   indices:
@@ -59,3 +59,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+

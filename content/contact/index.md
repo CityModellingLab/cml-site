@@ -12,27 +12,20 @@ sections:
       email: casa@ucl.ac.uk
       phone: +44 (0)20 3108 4910
       address:
-        street: 1st Fl, 90 Tottenham Court Road
+        street: 1st Flr, 90 Tottenham Court Road
         city: London
-        region: 
+        region: England
         postcode: 'W1T 4TJ'
         country: 'United Kingdom'
         country_code: GB
       coordinates:
-        latitude: ''
-        longitude: ''
+        latitude: '51.52213'
+        longitude: '-0.13596'
       directions: 
       office_hours:
-      appointment_url: 
-      
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
+      appointment_url:
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
     
       # Email form provider
       form:
@@ -43,24 +36,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: 
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 ---
