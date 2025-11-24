@@ -10,7 +10,6 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
     org_name: 'City Modelling Lab'
     description: 'The City Modelling Lab is a collaboration between the University College London, Arup and the University of Zürich to foster innovations that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change.'
     twitter: ''
