@@ -22,7 +22,7 @@ sections:
           - Principal Investigators
           - Postdoc Researchers
           - PhD Researchers
-          - Visitors
+          - Research Assistants
           - Administration
       sort_by: Params.last_name
       sort_ascending: false
