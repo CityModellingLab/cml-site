@@ -25,16 +25,16 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
-          pip install jupyter nbconvert nbformat
+          pip install jupyter nbconvert nbformat ipykernel
 
       - name: Convert Notebooks to Markdown
         shell: python
         run: |
           import os
+          import re
           import nbformat
           from nbconvert import MarkdownExporter
+          from nbconvert.preprocessors import ExecutePreprocessor
           from traitlets.config import Config
           from datetime import datetime
 
@@ -58,6 +58,9 @@ jobs:
               c = Config()
               c.MarkdownExporter.extract_output = True
               exporter = MarkdownExporter(config=c)
+              
+              # Initialize the execution preprocessor
+              ep = ExecutePreprocessor(timeout=600, kernel_name='python3')
 
               count = 0
               for root, dirs, files in os.walk("."):
@@ -70,15 +73,31 @@ jobs:
                           print(f"[{count}] Found: {notebook_path}")
 
                           base_name = os.path.splitext(file)[0]
-                          output_folder = os.path.join(root, base_name)
-                          os.makedirs(output_folder, exist_ok=True)
-
+                          
+                          # Output directly to the same folder as the ipynb
+                          output_folder = root
+                          
                           try:
                               with open(notebook_path, 'r', encoding='utf-8') as f:
                                   nb = nbformat.read(f, as_version=4)
                               
+                              # Execute the notebook
+                              print("    -> Executing notebook...")
+                              ep.preprocess(nb, {'metadata': {'path': output_folder}})
+                              
                               (body, resources) = exporter.from_notebook_node(nb)
 
+                              # --- POST-PROCESSING ---
+                              # Wrap Python code blocks in <details> tags for hide/unhide functionality
+                              # We use regex to find fenced code blocks starting with ```python
+                              print("    -> Adding code hide/unhide toggles...")
+                              body = re.sub(
+                                  r'(```python[\s\S]*?```)', 
+                                  r'<details>\n<summary>Show Code</summary>\n\n\1\n\n</details>', 
+                                  body
+                              )
+
+                              # Write Images
                               if 'outputs' in resources:
                                   for filename, data in resources['outputs'].items():
                                       img_path = os.path.join(output_folder, filename)
