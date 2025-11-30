@@ -1,10 +1,18 @@
 project:
-  type: hugo
-
-execute:
-  warning: false
+  type: default
+  post-render:
+    - scripts/process_hugo_iframe.py
 
 format:
-  hugo-md:
+  html:
+    embed-resources: true 
+    theme: cosmo
+    sidebar: false
+    navbar: false
+    page-layout: custom
     code-fold: true
-    variant: +yaml_metadata_block
+    include-in-header:
+      text: |
+        <style>
+          body { padding: 0; margin: 0; overflow-x: hidden; }
+        </style>

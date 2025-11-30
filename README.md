@@ -45,13 +45,13 @@ hugo server
 
 ## 2. Adding a Blog Post 
 
-Blog posts are in markdown format. Render `index.md` documents from `.qmd` or `.ipynb` formats **locally before pushing** the changes to GitHub repo for build. 
+Blog posts are in markdown format. For blogposts with executable codes, render `index.md` documents from `.qmd` or `.ipynb` **locally before pushing** the changes to GitHub repo for build. 
 
 1. Create a post in a new folder in `content/blog/`. The source file must be named `index` for correct rendering. E.g.
     - Markdown: `content/blog/my-post/index.md`, or
     - Quarto: `content/blog/my-post/index.qmd`, or
     - Jupyter: `content/blog/my-post/index.ipynb`
-2. Include YAML front matter at the top of the `.md` and `.qmd` file (or first cell for `.ipynb` in `raw` format).
+2. Include YAML front matter at the top of the `.md` and `.qmd` file (or first cell for `.ipynb` in `raw` format). 
     ```yaml
     ---
     ### Required
@@ -81,13 +81,13 @@ Blog posts are in markdown format. Render `index.md` documents from `.qmd` or `.
     ```
 3. Add a featured image in the same folder, must be named `featured.jpg`
 
-4. Execute and render `.qmd` and `.ipynb` to `.md` locally. If the file is already `index.md` and has no executable codes, skip to next step.
+4. Execute codes and render `.qmd` and `.ipynb` to Markdown locally.  Quarto has benn configured to convert them into Hugo-compatible `index.md`. (This step is not necessary for markdown files with no executable codes).
     - Run from root folder (e.g. `C:\...\cml-site>`)
       ```bash
       quarto render content/blog/my-post/index.qmd  
       # or quarto render content/blog/my-post/index.ipynb
       ```
-    - Verify `index.md` and `index_files/` were generated inside the folder. 
+    - Verify the new `index.md` was generated inside the folder. You should also see a new output created under `static/blog/...`
 
 5. Commit and push to GitHub
 
