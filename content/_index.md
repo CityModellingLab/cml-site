@@ -56,7 +56,7 @@ sections:
           color: '#555'
         link:
           text: Learn More
-          url: ../project/ai4ci
+          url: project/ai4ci
       - title: National Trip End Model Synthetic Population
         content: A synthetic population for the UK Department for Transport
         align: left
@@ -69,7 +69,7 @@ sections:
           color: '#333'
         link:
           text: Learn More
-          url: ../project/ntem
+          url: project/ntem
       - title: TRACK-UK
         content: Track-UK
         align: left
@@ -82,7 +82,7 @@ sections:
           color: '#333'
         link:
           text: Learn More
-          url: ../project/track-uk
+          url: project/track-uk
     design:
       slide_height: ''
       is_fullscreen: true
