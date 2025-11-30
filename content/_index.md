@@ -71,18 +71,18 @@ sections:
           text: Learn More
           url: ../project/ntem
       - title: TRACK-UK
-      content: Track-UK
-      align: left
-      background:
-        image:
-          filename: welcome.jpg
-          filters:
-            brightness: 0.3
-        position: center
-        color: '#333'
-      link:
-        text: Learn More
-        url: ../project/track-uk
+        content: Track-UK
+        align: left
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.3
+          position: center
+          color: '#333'
+        link:
+          text: Learn More
+          url: ../project/track-uk
     design:
       slide_height: ''
       is_fullscreen: true
