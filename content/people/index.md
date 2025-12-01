@@ -5,8 +5,8 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Meet the team     
-      text: From the University College London, the University of Zürich and Arup 
+      title: The People    
+      text: Meet the team
     design:
       background:
         image: 
