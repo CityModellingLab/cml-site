@@ -26,7 +26,7 @@ sections:
           - Research Assistants
           - Administration
       sort_by: Params.last_name
-      sort_ascending: false
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
