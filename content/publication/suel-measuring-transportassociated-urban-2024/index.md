@@ -1,5 +1,5 @@
 ---
-title: 'Measuring Transport-Associated Urban Inequalities: Where Are We and Where
+title: 'Measuring Transport Associated Urban Inequalities: Where Are We and Where
   Do We Go from Here?'
 authors:
 - Esra Suel
@@ -9,7 +9,7 @@ authors:
 - Gerard Casey
 - Adam Dennett
 date: '2024-01-01'
-publishDate: '2025-12-15T21:47:56.232085Z'
+publishDate: '2025-12-15T21:52:34.291393Z'
 publication_types:
 - article-journal
 publication: '*Transport Reviews*'
