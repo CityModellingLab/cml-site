@@ -11,8 +11,8 @@ from pathlib import Path
 
 CONTENT_DIR = Path("content")
 STATIC_DIR = Path("static")
-FORCE_BASE_URL = "/cml-site"  # Only in developpment 
-# FORCE_BASE_URL = "" # Use when moved to citymodellinglab.uk
+# FORCE_BASE_URL = "/cml-site"  # Only in development 
+FORCE_BASE_URL = "" # Use when moved to citymodellinglab.uk
 
 # Template for the Hugo Markdown wrapper
 WRAPPER_TEMPLATE = """---

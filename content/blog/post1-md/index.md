@@ -24,7 +24,7 @@ url_slides: 'https://adamdennett.github.io/AUM2024/AUM2024Presentation.html'
 url_video: 'https://www.youtube.com/watch?v=JrhGCrtiXNw'
 ---
 
-<iframe id="quarto-report" src="/cml-site/blog/post1-md/index_prerendered.html" width="100%" style="border:none; width: 100%; display: block;" scrolling="no"></iframe>
+<iframe id="quarto-report" src="/blog/post1-md/index_prerendered.html" width="100%" style="border:none; width: 100%; display: block;" scrolling="no"></iframe>
 
 <script>
   (function() {

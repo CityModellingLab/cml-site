@@ -20,18 +20,3 @@ name = "Custom Theme"
   background = "#ffffff"
   home_section_odd = "#ffffff"
   home_section_even = "#f8f9fa"
-
-[dark]
-  # Darker Red for Dark Mode
-  primary = "#e61e28"
-  
-  menu_primary = "#121212"
-  menu_text = "#ffffff"
-  menu_title = "#ffffff"
-  
-  # Darker Red Hover
-  menu_text_active = "#e61e28"
-  
-  background = "#121212"
-  home_section_odd = "#121212"
-  home_section_even = "#181818"
