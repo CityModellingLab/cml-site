@@ -2,8 +2,9 @@
 # Appearance
 appearance:
   mode: light
+  switcher: false
   theme_day: 'custom-theme'
-  theme_night: 'custom-theme'
+  theme_night: ''
   font: cyberpunk
   font_size: L
 
