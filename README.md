@@ -1,6 +1,6 @@
-This website is built using Hugo and Hugo Blox, deployed with GitHub Pages. You can edit and commit directly on GitHub's codespace (only minor text edits), or locally (recommended for stability) by following these steps.
+This website is built using Hugo and Hugo Blox, deployed with GitHub Pages. You can edit and commit directly on GitHub's codespace (only minor text edits), or locally by following these steps.
 
-## 1. Set up for local development
+## 1. Setting up local development
 
 ### Windows
 - Install Scoop, the Windows package manager
