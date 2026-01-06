@@ -129,7 +129,7 @@ sections:
     content:
       title: Latest Publications
       text: ""
-      count: 3
+      count: 5
       filters:
         folders:
           - publication
