@@ -7,7 +7,7 @@ authors:
 - Roei Yosifof
 - Sagi Dalyot
 date: '2021-01-01'
-publishDate: '2026-01-06T12:30:30.916369Z'
+publishDate: '2026-01-06T12:39:40.361194Z'
 publication_types:
 - article-journal
 publication: '*ISPRS International Journal of Geo-Information*'

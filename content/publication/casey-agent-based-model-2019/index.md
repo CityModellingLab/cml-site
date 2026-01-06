@@ -6,7 +6,7 @@ authors:
 - Fatema Karim-Khaku
 - Chris Bruce
 date: '2019-01-01'
-publishDate: '2026-01-06T12:30:30.877074Z'
+publishDate: '2026-01-06T12:39:40.316524Z'
 publication_types:
 - paper-conference
 publication: '*European Transport Conference 2019 (Association for European Transport,
