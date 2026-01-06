@@ -13,12 +13,12 @@ superuser: false
 role: Professor of Urban Analytics, UZH
 
 # Short bio (displayed in user profile at end of posts)
-bio: Esra's most recent research is driven by questions related to transport and energy transitions to net-zero, urban change, and their links to socio-economic and health inequalities. Her new research group at the Department of Geography will focus on computational methods to study urban systems, integrating traditional and big data sources. 
+bio: Esra leads the research group at the Department of Geography (UZH) to focus on computational methods to study urban systems, integrating traditional and big data sources. 
 
 interests:
-  - Interest 1
-  - Interest 2
-  - Interest 3
+  - Net-Zero transition
+  - Equity and Sustainability
+  - Urban Change
 
 education:
   courses:

@@ -16,9 +16,9 @@ role: Professor of Urban Analytics, UCL
 bio: Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front.
 
 interests:
-  - Interest 1
-  - Interest 2
-  - Interest 3
+  # - Interest 1
+  # - Interest 2
+  # - Interest 3
 
 education:
   courses:

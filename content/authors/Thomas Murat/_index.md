@@ -13,12 +13,12 @@ superuser: false
 role: PhD Researcher, UCL
 
 # Short bio (displayed in user profile at end of posts)
-bio: Having completed his undergraduate, PGCE and MSc degrees at UCL, Tom is aiming to complete the set with a PhD at CASA. He is currently working on using Agent Based Models to develop effective bus policies. When he is not lost in MatSIM, Tom is usually found dragging reluctant teenagers through their GCSEs and A Levels.
+bio: Tom is currently working on using Agent Based Models to develop effective bus policies. When he is not lost in MatSIM, Tom is usually found dragging reluctant teenagers through their GCSEs and A Levels.
 
 interests:
-  - Interest 1
-  - Interest 2
-  - Interest 3
+  # - Interest 1
+  # - Interest 2
+  # - Interest 3
 
 education:
   courses:
