@@ -21,12 +21,16 @@ sections:
   - block: markdown
     content:
       text: "
-      ## Aims and Objectives
+      ## Project Summary
 
       This work is aimed at building a synthetic population for Great Britain. It is part of an update to the National Trip End Model, that seeks to replace the components 'Scenario Generator', 'NATCOP' and 'Licence Cohort Model' with new forecasting software that generates a synthetic population that can be published as well as continuing to provide the inputs to the existing CTripEnd modelling software.
 
       ## Funder
 
-      Department for Transport (DfT)
+      [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport)
+
+      ## Contact Person
+
+      [Gerry Casey](../../author/gerry-casey)
       "
 ---

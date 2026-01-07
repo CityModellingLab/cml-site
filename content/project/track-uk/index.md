@@ -21,14 +21,19 @@ sections:
   - block: markdown
     content:
       text: "
-      ## Aims and Objectives
+      ## Project Summary
 
-      TRACK-UK (Synthesised Census and Small Area Statistics for Transport and Energy) is an ESRC-funded collaborative research project co-led by University College London's Centre for Advanced Spatial Analysis (CASA), Arup, and the Alan Turing Institute. The project develops advanced spatial and statistical methods to analyse mobility patterns at high spatial resolution and to understand their implications for transport decarbonisation across the UK.
+      TRACK-UK (Synthesised Census and Small Area Statistics for Transport and Energy) is an ESRC-funded collaborative research project. The project is co-led by University College London's Centre for Advanced Spatial Analysis (CASA), Arup, and the Alan Turing Institute. The project develops advanced spatial and statistical methods to analyse mobility patterns at high spatial resolution and to understand their implications for transport decarbonisation across the UK.
 
       TRACK-UK integrates National Travel Survey and Census data, applies small-area estimation and synthetic population methods, and produces granular indicators of travel behaviour, mobility profiles, and decarbonisation progress at neighbourhood scale. The project works closely with academic, policy, and industry partners to generate evidence that supports data-driven transport and energy policy.
 
       ## Funder
 
-      Economic and Social Research Council (ESRC)
+      [Economic and Social Research Council, UKRI](https://www.ukri.org/councils/esrc/)
+
+      ## Contact Person
+
+      [Esra Suel](../../author/esra-suel)
+
       "
 ---

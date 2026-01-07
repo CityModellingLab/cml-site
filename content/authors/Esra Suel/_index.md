@@ -10,15 +10,15 @@ last_name: Suel
 superuser: false
 
 # Role/position
-role: Professor of Urban Analytics, UZH
+role: Associate Professor, UZH & UCL CASA
 
 # Short bio (displayed in user profile at end of posts)
-bio: Esra leads the research group at the Department of Geography (UZH) to focus on computational methods to study urban systems, integrating traditional and big data sources. 
+bio: Esra is an Associate Professor of Urban Analytics at the University of Zurich and UCL CASA. Her research uses computational methods to study mobility, housing, demographic change, and energy transitions in cities, focusing on inequalities. 
 
 interests:
-  - Net-Zero transition
-  - Equity and Sustainability
-  - Urban Change
+  - Mobility and transportation
+  - Urban inequalities
+  - Demographic and technological change
 
 education:
   courses:
@@ -41,16 +41,16 @@ social:
     link: 'mailto:esra.suel@geo.uzh.ch'
   - icon: link
     icon_pack: fas
-    link: https://www.geo.uzh.ch/en/units/una/staff/suelesra.html
-  - icon: x-twitter
-    icon_pack: fab
-    link: http://www.x.com/esrasuel
+    link: https://www.geo.uzh.ch/en/units/una/staff/suelesra
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/esrasuel/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Hdxa9L8AAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/esrasuel
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -60,4 +60,14 @@ user_groups:
   - Meet the team
 ---
 
-Esra's most recent research is driven by questions related to transport and energy transitions to net-zero, urban change, and their links to socio-economic and health inequalities. Her new research group at the Department of Geography will focus on computational methods to study urban systems, integrating traditional and big data sources. 
+Esra is an Associate Professor of Urban Analytics at the University of Zurich and an Associate Professor at UCL's Centre for Advanced Spatial Analysis (CASA). 
+
+Her research group focuses on developing computational methods to analyse urban mobility, land use, housing, and demographic change, with a particular emphasis on their connections to social, environmental, and health inequalities. Ongoing research is driven by four interrelated themes that capture the major drivers and key challenges shaping cities today: urban mobility, urban inequalities, demographic change, and technological change.
+
+The overall goal is to combine data-driven and theory-informed approaches to:
+
+* Measure and track urban change — quantifying city - and population-level dynamics at fine spatial and temporal scales using emerging large-scale digital and traditional data sources.
+* Model and forecast urban systems — integrating agent-based models, spatial interaction models, and deep learning to support scenario testing, policy evaluation, and planning.
+* Understand human behaviour and decision-making — studying individual and household choices in response to new technologies and social, economic, and environmental transitions, using empirical data to inform theory and policy.
+
+More information on the Urban Analytics Group at the University of Zurich is available [here](https://www.geo.uzh.ch/en/units/una.html)

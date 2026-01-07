@@ -10,7 +10,7 @@ last_name: Hoang
 superuser: false
 
 # Role/position
-role: Research Assistant, UZH-UCL
+role: Research Assistant, UZH & UCL CASA
 
 # Short bio (displayed in user profile at end of posts)
 bio: Shaun's research focuses on using open data, simulation, and machine learning to improve transport resilience in fast-growing cities. Obviously, he loves playing Cities Skylines.
@@ -58,6 +58,4 @@ user_groups:
   - Meet the team
 ---
 
-Shaun Hoang (The-Huan)'s research focuses on improving equitable and sustainable access and transport resilience in fast-growing cities, particularly in the Global South. He is interested in combining complexity science and spatial data analysis to study first/last-mile access and transport resilience, using open geodata, simulation, and machine learning methods. His experience includes predicting trip attraction with ML and supporting traffic simulations in low-data contexts.
-
-
+Shaun Hoang (The-Huan)'s research focuses on improving equitable and sustainable access and transport resilience in fast-growing cities, particularly in the Global South. He is interested in combining complexity science and spatial data analysis to study first/last-mile access and transport resilience, using open geodata, simulation, and machine learning methods.
