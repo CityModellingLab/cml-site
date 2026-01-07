@@ -6,8 +6,8 @@ sections:
 # PEOPLE
   - block: hero
     content:
-      title: The Collaboration  
-      text: Bridging the gap between theory, practice, and policy
+      title: The Team  
+      text: Bridge the gap between theory, practice, and policy
     design:
       background:
         image: 
@@ -16,6 +16,11 @@ sections:
             brightness: '0.5'
         text_color_light: true
         color: '#333'
+
+  - block: markdown
+    content:
+      text: |
+        Our collaboration bridges the gap between academia and applications by aligning the pace of consultancy of Arup with the depth of research of UCL's Centre for Advanced Spatial Analysis (UCL CASA) and the University of Zürich (UZH), creating a direct pipeline where rigorous academic tools are refined for high-stakes decision-making and real-world industry challenges, in turn, drive academic inquiry. 
 
   - block: people
     content:
@@ -34,10 +39,7 @@ sections:
       show_role: true
       show_social: false
 
-  - block: markdown
-    content:
-      text: |
-        We combine Arup's mission-oriented delivery with the methodological innovation of the Bartlett Centre for Advanced Spatial Analysis (CASA) at the University College London and the University of Zürich. Our partnership bridges the gap between academia and applications by aligning the pace of consultancy with the depth of research, creating a direct pipeline where rigorous academic tools are refined for high-stakes decision-making and real-world industry challenges drive scalable, long-term inquiry. 
+
 
   - block: hero
     content:
