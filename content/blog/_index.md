@@ -2,12 +2,24 @@
 title: 
 type: landing
 sections:
-  - block: collection
+  - block: hero
     content:
-      title: Blog
-      subtitle: What we're thinking about...
-      text:
-      count: 
+      title: Blog posts
+      text: What we're thinking about...
+    design:
+      background:
+        image: 
+          filename: 'welcome.jpg'
+          filters:
+            brightness: '0.5'
+        text_color_light: true
+        color: '#333'
+      spacing:
+        padding: ['30px', '0', '30px', '0']
+
+
+  - block: collection
+    content: 
       filters:
         folders:
           - blog

@@ -11,35 +11,39 @@ sections:
       text: |
         <br>
         We take some of the most pressing and complex challenges facing cities such as social inequality and climate change and develop methods, data and tools to enable decision makers to tackle them
-        <br>
 
     design:
       background:
         image: 
+          filename: welcome.jpg
           filters:
-            brightness: '0.5'
+            brightness: 0.5
+          parallax: true
+          position: center
+          size: 
+          text_color_light: true
         text_color_light: true
         color: '#e61e28'
         
   - block: markdown
     content:
       text: |
-        <div style="display:flex; gap:100px; justify-content:center; align-items:center; flex-wrap:wrap; padding: 0px 0;">
-          <a href="https://www.arup.com/">
-            <img src="home/arup-logo.png" alt="Arup" style="height: 60px; max-width: 100%;">
+        <div style="display:flex; gap:80px; justify-content:center; align-items:center; flex-wrap:wrap; padding: 0px 0;">
+          <a href="https://www.arup.com/services/city-modelling-lab/">
+            <img src="home/arup-logo.png" alt="Arup" style="height: 80px; max-width: 100%;">
           </a>
           <a href="https://www.ucl.ac.uk/bartlett/casa">
-            <img src="home/casa-logo.png" alt="UCL" style="height: 100px; max-width: 100%;">
+            <img src="home/casa-logo.png" alt="UCL" style="height: 130px; max-width: 100%;">
           </a>
           <a href="https://www.geo.uzh.ch/">
-            <img src="home/uzh-logo.png" alt="UZH" style="height: 60px; max-width: 100%;">
+            <img src="home/uzh-logo.png" alt="UZH" style="height: 80px; max-width: 100%;">
           </a>
         </div>
     design:
       background:
         color: '#fff'
       spacing:
-        padding: ['50px', '0', '50px', '0']
+        padding: ['100px', '0', '100px', '0']
 
   - block: slider
     content:
@@ -51,7 +55,7 @@ sections:
           image:
             filename: ai4ci-welcome.png
             filters:
-              brightness: 0.3
+              brightness: 0.1
           position: center
           color: '#555'
         link:
@@ -64,7 +68,7 @@ sections:
           image:
             filename: ntem-welcome.png
             filters:
-              brightness: 0.3
+              brightness: 0.1
           position: center
           color: '#333'
         link:
@@ -77,7 +81,7 @@ sections:
           image:
             filename: track-uk-welcome.png
             filters:
-              brightness: 0.3
+              brightness: 0.1
           position: center
           color: '#333'
         link:
@@ -90,7 +94,7 @@ sections:
           image:
             filename: geomobility-welcome.png
             filters:
-              brightness: 0.3
+              brightness: 0.1
           position: center
           color: '#555'
         link:
@@ -99,15 +103,16 @@ sections:
     design:
       slide_height: ''
       is_fullscreen: true
-      loop: false
-      interval: 2000
+      # autoplay: true
+      loop: true
+      interval: 7500
   
   - block: collection
     content:
       title: Latest Posts
       subtitle:
       text:
-      count: 2
+      count: 3
       filters:
         author: ''
         category: ''

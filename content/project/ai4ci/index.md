@@ -1,5 +1,5 @@
 ---
-title: AI for Collective Intelligence (AI4CI) - Smart Cities"
+title: AI for Collective Intelligence (AI4CI) - Smart Cities
 show_date: false
 type: landing
 summary: Artificial intelligence for smarter city planning
